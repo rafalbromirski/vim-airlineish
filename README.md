@@ -3,7 +3,15 @@
 Theme for vim-airline: https://github.com/bling/vim-airline
 
 ### How to install:
-soon...
+
+Clone repository
+
+```
+cd ~/.vim/bundle
+git clone https://github.com/paranoida/vim-airlineish.git
+```
+
+Add `let g:airline_theme = 'airlineish'` to your vimrc.
 
 ### Preview:
 ![Vim Airlineish Theme](https://raw.github.com/paranoida/vim-airlineish/master/preview.gif)
