@@ -2,11 +2,11 @@
 
 Theme for vim-airline: https://github.com/bling/vim-airline
 
-![Vim Airlineish Theme](https://raw.github.com/paranoida/vim-airlineish/master/preview.gif)
-
 ### How to install:
-
 soon...
+
+### Preview:
+![Vim Airlineish Theme](https://raw.github.com/paranoida/vim-airlineish/master/preview.gif)
 
 ---
 ### License:
