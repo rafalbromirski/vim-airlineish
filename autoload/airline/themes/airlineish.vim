@@ -1,7 +1,7 @@
 " Normal mode
-let s:N1 = [ '#ffffff' , '#5f00af' , 15 , 55 ]
-let s:N2 = [ '#ffffff' , '#875fd7' , 15 , 98 ]
-let s:N3 = [ '#ffffff' , '#121212' , 15 , 98 ]
+let s:N1 = [ '#ffffff' , '#5f00af' , 15 , 55  ]
+let s:N2 = [ '#ffffff' , '#875fd7' , 15 , 98  ]
+let s:N3 = [ '#ffffff' , '#121212' , 15 , 233 ]
 
 " Insert mode
 let s:I1 = [ '#ffffff' , '#005fff' , 15 , 33  ]
