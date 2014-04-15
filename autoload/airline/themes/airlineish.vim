@@ -41,3 +41,12 @@ let s:CP2 =  [ '#ffffff' , '#875fd7' , 15 , 98 ]
 let s:CP3 =  [ '#5f00af' , '#ffffff' , 55 , 15 ]
 
 let g:airline#themes#airlineish#palette.ctrlp = airline#extensions#ctrlp#generate_color_map(s:CP1, s:CP2, s:CP3)
+
+" Tabline
+let g:airline#themes#airlineish#palette.tabline = {
+      \ 'airline_tab':     [ '#ffffff' , '#5f00af' ,  15 , 55  , '' ],
+      \ 'airline_tabsel':  [ '#ffffff' , '#875fd7' ,  15 , 98  , '' ],
+      \ 'airline_tabtype': [ '#ffffff' , '#875fd7' ,  15 , 98  , '' ],
+      \ 'airline_tabfill': [ '#ffffff' , '#121212' ,  15 , 233 , '' ],
+      \ 'airline_tabmod':  [ '#ffffff' , '#ff5f5f' ,  15 , 33  , '' ]
+      \ }
